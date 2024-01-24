@@ -20,5 +20,6 @@ function fn() {
     }
 
     inp.value = '';
-    inp.focus()
+    inp.focus();
+    
 }
